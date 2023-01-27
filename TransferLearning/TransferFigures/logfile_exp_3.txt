@@ -1,0 +1,244 @@
+ 
+ Experiment 3 checks whether observable 0 has value 1 and whether observable 1 has value 0
+ 
+ Accuracy: 0.64 
+ Weighted accuracy: 0.7575392038600723 
+ 
+ Accuracy: 0.626 
+ Weighted accuracy: 0.731585518102372 
+ 
+ Accuracy: 0.674 
+ Weighted accuracy: 0.7953281423804227 
+ 
+ Accuracy: 0.756 
+ Weighted accuracy: 0.8521739130434782 
+ 
+ Accuracy: 0.828 
+ Weighted accuracy: 0.8996763754045307 
+ 
+ Accuracy: 0.832 
+ Weighted accuracy: 0.8920521945432978 
+ 
+ Accuracy: 0.822 
+ Weighted accuracy: 0.8986332574031891 
+ 
+ Accuracy: 0.866 
+ Weighted accuracy: 0.9242937853107345 
+ 
+ Accuracy: 0.852 
+ Weighted accuracy: 0.9054842473745625 
+ 
+ Accuracy: 0.858 
+ Weighted accuracy: 0.9191343963553531 
+ 
+ Accuracy: 0.862 
+ Weighted accuracy: 0.9098457888493475 
+ 
+ Accuracy: 0.856 
+ Weighted accuracy: 0.9211391018619934 
+ 
+ Accuracy: 0.882 
+ Weighted accuracy: 0.9305882352941176 
+ 
+ Accuracy: 0.892 
+ Weighted accuracy: 0.9380022962112514 
+ 
+ Accuracy: 0.87 
+ Weighted accuracy: 0.9265536723163842 
+ 
+ Accuracy: 0.872 
+ Weighted accuracy: 0.9309600862998921 
+ 
+ Accuracy: 0.854 
+ Weighted accuracy: 0.9187986651835373 
+ 
+ Accuracy: 0.888 
+ Weighted accuracy: 0.9395900755124056 
+ 
+ Accuracy: 0.866 
+ Weighted accuracy: 0.9242937853107345 
+ 
+ Accuracy: 0.894 
+ Weighted accuracy: 0.9401129943502825 
+ 
+ Accuracy: 0.896 
+ Weighted accuracy: 0.9398148148148148 
+ 
+ Accuracy: 0.936 
+ Weighted accuracy: 0.9629629629629629 
+ 
+ Accuracy: 0.94 
+ Weighted accuracy: 0.9685863874345549 
+ 
+ Accuracy: 0.946 
+ Weighted accuracy: 0.9725330620549338 
+ 
+ Accuracy: 0.97 
+ Weighted accuracy: 0.9835706462212487 
+ 
+ Accuracy: 0.978 
+ Weighted accuracy: 0.9880434782608696 
+ 
+ Accuracy: 0.964 
+ Weighted accuracy: 0.9805825242718447 
+ 
+ Accuracy: 0.982 
+ Weighted accuracy: 0.9902912621359223 
+ 
+ Accuracy: 0.99 
+ Weighted accuracy: 0.9942594718714122 
+ 
+ Accuracy: 0.986 
+ Weighted accuracy: 0.9926160337552743 
+ 
+ Accuracy: 0.98 
+ Weighted accuracy: 0.989451476793249 
+ 
+ Accuracy: 0.99 
+ Weighted accuracy: 0.9942594718714122 
+ 
+ Accuracy: 0.99 
+ Weighted accuracy: 0.9939172749391727 
+ 
+ Accuracy: 0.992 
+ Weighted accuracy: 0.9952550415183867 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9968354430379747 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.997874601487779 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9967141292442497 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9966887417218543 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9988876529477196 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9964705882352941 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.997874601487779 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9975460122699387 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9965831435079726 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9976851851851852 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9895287958115183 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9989680082559339 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9989293361884368 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9969040247678018 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9977037887485649 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9890470974808324 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9875156054931336 
+ 
+ Accuracy: 0.99 
+ Weighted accuracy: 0.9866518353726362 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9988331388564761 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9987834549878345 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9988137603795967 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9978094194961665 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9965556831228473 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.998062015503876 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9976275207591934 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9899888765294772 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9988038277511961 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9908883826879271 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9976851851851852 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9990439770554493 
+ 
+ Accuracy: 0.994 
+ Weighted accuracy: 0.9961538461538462 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9977037887485649 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9908883826879271 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9987730061349693 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9987834549878345 
+ 
+ Accuracy: 0.998 
+ Weighted accuracy: 0.9988962472406181 
+ 
+ Accuracy: 1.0 
+ Weighted accuracy: 1.0 
+ 
+ Accuracy: 0.996 
+ Weighted accuracy: 0.9977220956719818 
+ 
+ 
